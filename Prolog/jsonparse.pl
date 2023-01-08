@@ -240,8 +240,8 @@ jsonobj([Object], [ParsedObject | ParsedObjects]) :-
     !.
 
 % Define the jsonmember predicate
-% This predicate is used to separate the Attribute and the value of a JSON object
-% The result is a json pair 
+% This predicate is used to separate the Attribute and the value 
+% of a JSON object. The result is a json pair 
 jsonmember(Member, (Attribute, Value)) :-
     Member =.. [':', MemberAttribute, MemberValue],
     jsonpair(MemberAttribute, MemberValue, Attribute, Value),
