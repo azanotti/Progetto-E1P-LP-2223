@@ -1,6 +1,6 @@
 Progetto E1P - JSON Parsing
 
-Il progetto e' stato realizzato usando Emacs 28.2 su Windows 10 21H2.
+Il progetto e' stato realizzato usando Emacs 28.2 su Windows.
 
 REALIZZAZIONE COMMON LISP
 
