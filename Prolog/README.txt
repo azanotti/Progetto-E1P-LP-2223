@@ -1,5 +1,7 @@
 Progetto E1P - JSON Parsing
 
+Il progetto e' stato realizzato usando Emacs 28.2 su Windows 10 21H2.
+
 Introduzione:
 Lo sviluppo di applicazioni web su Internet, ma non solo, richiede di scambiare dati fra applicazioni
 eterogenee, ad esempio tra un client web scritto in Javascript e un server, e viceversa. Uno standard
